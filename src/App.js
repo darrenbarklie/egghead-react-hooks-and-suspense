@@ -1,4 +1,4 @@
-import Counter from "./exercises/index";
+import Counter from "./components/Counter";
 import "./App.css";
 
 function App() {
